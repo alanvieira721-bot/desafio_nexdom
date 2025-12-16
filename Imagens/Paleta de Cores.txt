@@ -1,0 +1,10 @@
+Esquema de cores:
+#055353 - Verde Escuro
+
+#d1dbe0 - Cinza Claro
+
+#71bf98 - Verde Claro
+
+#507e7f - Verde Azulado
+
+#72aeb0 - Azul Piscina
